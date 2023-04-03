@@ -1,0 +1,33 @@
+{
+  "name": "react-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe interactive game",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fmlog/react-tic-tac-toe.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "femi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fmlog/react-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/Fmlog/react-tic-tac-toe#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3"
+  }
+}
